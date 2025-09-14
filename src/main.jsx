@@ -7,8 +7,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 createRoot(document.getElementById('root')).render(
   <BrowserRouter>
-  <StrictMode>
-    <App />
-  </StrictMode>,
+    <StrictMode>
+      <App />
+    </StrictMode>
   </BrowserRouter>
 )
